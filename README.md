@@ -129,7 +129,7 @@ Focused on building web applications and RESTful APIs.
 | Platform | Link |
 |:---:|:---:|
 | 📧 Email | **nvtung.backend@gmail.com** |
-| 💼 LinkedIn | **linkedin.com/in/vantung1606** |
+| 💼 LinkedIn | **[linkedin.com/in/vantung1606](https://www.linkedin.com/in/vantung1606/)** |
 | 🌐 GitHub | **github.com/vantung1606** |
 
 </div>
