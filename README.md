@@ -49,33 +49,27 @@ Here are some ideas to get you started:
 
 ---
 
-## 🚀 About Me - The Premium Developer
+## 🚀 About Me
 
-```python
-class VIPDeveloper:
-    def __init__(self):
-        self.name = "Van Tung"
-        self.role = "🌟 Premium Full Stack Developer | AI Architect"
-        self.location = "Vietnam 🇻🇳"
-        self.experience = "5+ Years of Excellence"
-        self.specialization = [
-            "🌐 Web Development",
-            "🤖 AI & Machine Learning",
-            "📱 Mobile Development",
-            "☁️ Cloud Architecture",
-            "🔐 Cybersecurity"
-        ]
-        
-    def get_current_focus(self):
-        return {
-            "🎓 Learning": ["Advanced AI Models", "Cloud Native Development", "DevOps"],
-            "💼 Working On": "Revolutionary Web & AI Products",
-            "❤️ Passionate About": "Building scalable, secure, and innovative solutions",
-            "🎯 Goal": "Empowering businesses with cutting-edge technology"
-        }
-```
+Hi, I'm **Van Tung** — a Full Stack Developer from Vietnam 🇻🇳
 
----
+I specialize in building scalable web applications, AI-powered products, and modern cloud-based systems. With 5+ years of development experience, I focus on creating clean, high-performance, and user-friendly solutions.
+
+### 💡 Specialization
+- 🌐 Web Development
+- 🤖 AI & Machine Learning
+- 📱 Mobile Development
+- ☁️ Cloud Architecture
+- 🔐 Cybersecurity
+
+### 🎯 Current Focus
+- Advanced AI Models
+- Cloud-Native Development
+- DevOps & Automation
+- Scalable Web & AI Products
+
+### ❤️ Passion
+Building secure, scalable, and innovative digital solutions that create real impact.
 
 ## 🏆 Premium Tech Stack - VIP Edition
 
