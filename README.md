@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate developer from Vietnam 🇻🇳</h3>
 
 <p align="center">
-  <img src="[https://avatars.githubusercontent.com/u/50383480?v=4](https://avatars.githubusercontent.com/u/164857832?v=4)" width="200" alt="avatar"/>
+  <img src="https://github.com/vantung1606.png" width="150" alt="Avatar"/>
 </p>
-
 - 🌱 I’m currently learning **Fullstack Developer, AI, Machine Learning**
 
 - 📫 How to reach me **vantung1606@gmail.com**
