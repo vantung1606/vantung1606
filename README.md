@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me - The Premium Developer
 
+```python
 class VIPDeveloper:
     def __init__(self):
         self.name = "Van Tung"
@@ -79,6 +80,7 @@ class VIPDeveloper:
 
 # Khởi tạo profile
 me = VIPDeveloper()
+print(me.get_current_focus())
 
 ---
 
