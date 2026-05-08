@@ -54,56 +54,52 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-### 👋 Hi There, I'm Van Tung 🇻🇳  
-### 🌟 Full Stack Developer • AI Enthusiast • Cloud Architect
+# 👋 Hi, I'm Van Tung 🇻🇳
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Experiences;Creating+AI-Powered+Applications;Designing+Scalable+Cloud+Systems;Always+Learning+New+Technologies" />
+### 🌟 Full Stack Developer | AI Enthusiast | Cloud Architect
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Creating+AI-Powered+Solutions;Designing+Scalable+Cloud+Systems;Always+Learning+New+Technologies" />
 
 </div>
 
 ---
 
-### 💎 Who Am I?
+## 💎 About Me
 
-Passionate Full Stack Developer with **5+ years of experience** crafting modern, scalable, and high-performance digital products.  
-I love combining **clean architecture**, **beautiful UI/UX**, and **AI-powered solutions** to build impactful applications.
+✨ Passionate developer with **5+ years of experience** building scalable and modern applications.
 
----
-
-### ⚡ What I Do
-
-- 🌐 Develop modern full-stack web applications
-- 🤖 Integrate AI & Machine Learning solutions
-- ☁️ Design scalable cloud infrastructures
-- 📱 Build responsive and mobile-friendly systems
-- 🔐 Focus on security, performance, and clean architecture
+🚀 Specialized in:
+- 🌐 Full Stack Web Development
+- 🤖 AI & Machine Learning
+- ☁️ Cloud & DevOps
+- 📱 Mobile-Friendly Systems
+- 🔐 Security & Performance Optimization
 
 ---
 
-### 🎯 Current Focus
+## 🎯 Current Focus
 
 ```diff
 + Advanced AI Applications
-+ Cloud-Native Development
++ Cloud-Native Architecture
 + Scalable SaaS Platforms
-+ DevOps & Infrastructure Automation
-+ High Performance UI/UX
++ DevOps Automation
++ Modern UI/UX Experiences
 ```
 
 ---
 
-### 🧠 Developer Philosophy
+## 🧠 Developer Philosophy
 
-> "Code should not only work — it should be scalable, maintainable, and meaningful."
+> "Great software is built with clean architecture, scalability, and meaningful user experience."
 
 ---
 
 <div align="center">
 
-### 🚀 Building the future with code & creativity
+### ⚡ Building the future with code & creativity ⚡
 
 </div>
-````
 
 
 ## 🏆 Premium Tech Stack - VIP Edition
