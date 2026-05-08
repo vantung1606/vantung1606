@@ -34,12 +34,14 @@
 
 <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-✨ Passionate Full Stack Developer focused on building modern, scalable, and high-performance applications.
+✨ Final-year Information Technology student 🇻🇳 | Backend Developer  
+Focused on building web applications and RESTful APIs.
+
+💡 Interested in backend development, system design, and scalable web services..
 
 💡 I enjoy combining:
 - 🌐 Modern Web Technologies
 - 🤖 AI & Machine Learning
-- ☁️ Cloud & DevOps
 - 🔐 Security & Performance
 - 📱 Beautiful UI/UX Experiences
 
@@ -48,11 +50,11 @@
 # ⚡ Current Focus
 
 ```diff
-+ AI-Powered Applications
-+ Cloud-Native Architecture
-+ Scalable SaaS Platforms
-+ Automation & DevOps
-+ Advanced Frontend Experiences
++ Spring Boot Backend Development
++ RESTful API Design
++ Database Management (MySQL / PostgreSQL)
++ Authentication & Security (JWT)
++ Learning System Design Fundamentals
 ```
 
 ---
