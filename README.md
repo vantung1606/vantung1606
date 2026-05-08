@@ -68,20 +68,15 @@ class VIPDeveloper:
         
     def get_current_focus(self):
         return {
-            "🎓 Learning": [
-                "Advanced AI Models", 
-                "Cloud Native Development", 
-                "DevOps"
-            ],
+            "🎓 Learning": ["Advanced AI Models", "Cloud Native Development", "DevOps"],
             "💼 Working On": "Revolutionary Web & AI Products",
             "❤️ Passionate About": "Building scalable, secure, and innovative solutions",
             "🎯 Goal": "Empowering businesses with cutting-edge technology"
         }
-
-# Khởi tạo profile
-me = VIPDeveloper()
-print(me.get_current_focus())
 ```
+
+---
+
 ## 🏆 Premium Tech Stack - VIP Edition
 
 ### 🔹 Languages - Professional Grade
