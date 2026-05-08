@@ -81,7 +81,7 @@ class VIPDeveloper:
 # Khởi tạo profile
 me = VIPDeveloper()
 print(me.get_current_focus())
-'''
+```python
 ---
 
 ## 🏆 Premium Tech Stack - VIP Edition
