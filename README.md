@@ -65,34 +65,27 @@ Focused on building web applications and RESTful APIs.
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,java,go" />
+<img src="https://skillicons.dev/icons?i=java,js,sql" />
 
 ---
 
-### ⚛️ Frontend Development
+### ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap" />
-
----
-
-### 🛠 Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" />
+<img src="https://skillicons.dev/icons?i=java,spring" />
 
 ---
 
-### ☁️ DevOps & Cloud
+### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,linux,git,github" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
 ---
 
-### 🤖 AI & Machine Learning
+### 🛠 Tools
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=git,docker,linux" />
 
 </div>
-
 ---
 
 # 📊 GitHub Analytics
@@ -135,7 +128,7 @@ Focused on building web applications and RESTful APIs.
 
 | Platform | Link |
 |:---:|:---:|
-| 📧 Email | **vantung1606@gmail.com** |
+| 📧 Email | **nvtung.backend@gmail.com** |
 | 💼 LinkedIn | **linkedin.com/in/vantung1606** |
 | 🌐 GitHub | **github.com/vantung1606** |
 
