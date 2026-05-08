@@ -1,18 +1,20 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=70&lines=Welcome+to+My+Profile+🚀;Full+Stack+Developer;AI+%26+Cloud+Enthusiast" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Van%20Tung&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=00D9FF&fontSize=60&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=60&animation=fadeIn" />
 
-# 👋 Hi, I'm Van Tung
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+%26+Cloud+Enthusiast;Building+Scalable+Digital+Experiences;Always+Learning+New+Technologies" />
 
-### Full Stack Developer from Vietnam 🇻🇳
+<br/>
 
-<img src="https://github.com/vantung1606.png" width="160" style="border-radius:50%;" />
+<img src="https://github.com/vantung1606.png" width="180" style="border-radius:50%; border:6px solid #00D9FF;" />
+
+<br/><br/>
 
 <p>
   <a href="mailto:vantung1606@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-FF4458?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  
+
   <a href="https://github.com/vantung1606">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -22,92 +24,129 @@
   </a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=vantung1606&style=for-the-badge&color=00D9FF"/>
+
 </div>
 
 ---
 
 # 🚀 About Me
 
-Passionate Full Stack Developer with experience building scalable web applications, cloud systems, and AI-powered solutions.
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🌐 Full Stack Web Development
+✨ Passionate Full Stack Developer focused on building modern, scalable, and high-performance applications.
+
+💡 I enjoy combining:
+- 🌐 Modern Web Technologies
 - 🤖 AI & Machine Learning
 - ☁️ Cloud & DevOps
-- 📱 Responsive & Modern UI
-- 🔐 Security & Performance Optimization
+- 🔐 Security & Performance
+- 📱 Beautiful UI/UX Experiences
 
-### 🎯 Current Focus
+---
+
+# ⚡ Current Focus
 
 ```diff
-+ AI Applications
-+ Cloud-Native Development
-+ Scalable SaaS Systems
-+ DevOps & Automation
++ AI-Powered Applications
++ Cloud-Native Architecture
++ Scalable SaaS Platforms
++ Automation & DevOps
++ Advanced Frontend Experiences
 ```
 
 ---
 
-# 🛠 Tech Stack
-
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
-
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
-
-### Backend & Database
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-### Tools & Cloud
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
-
----
-
-# 📊 GitHub Stats
+# 🛠 Tech Arsenal
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vantung1606&show_icons=true&theme=tokyonight&hide_border=true" />
+### 💻 Languages
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vantung1606&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,java,go" />
+
+---
+
+### ⚛️ Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap" />
+
+---
+
+### 🛠 Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" />
+
+---
+
+### ☁️ DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,linux,git,github" />
+
+---
+
+### 🤖 AI & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 
 </div>
 
 ---
 
-# 📫 Contact
+# 📊 GitHub Analytics
 
-- 📧 Email: **vantung1606@gmail.com**
-- 💼 LinkedIn: **linkedin.com/in/vantung1606**
-- 🌐 GitHub: **github.com/vantung1606**
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vantung1606&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vantung1606&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img width="76%" src="https://github-readme-streak-stats.herokuapp.com/?user=vantung1606&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vantung1606&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+
+</div>
+
+---
+
+# 🌌 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vantung1606&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+| Platform | Link |
+|:---:|:---:|
+| 📧 Email | **vantung1606@gmail.com** |
+| 💼 LinkedIn | **linkedin.com/in/vantung1606** |
+| 🌐 GitHub | **github.com/vantung1606** |
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=vantung1606&color=00D9FF&style=for-the-badge&label=Profile+Views" />
+## ⚡ "Code. Create. Innovate." ⚡
 
-<br/>
-
-⭐ Thanks for visiting my profile!
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
