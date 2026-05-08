@@ -51,7 +51,6 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me - The Premium Developer
 
-```python
 class VIPDeveloper:
     def __init__(self):
         self.name = "Van Tung"
@@ -68,12 +67,18 @@ class VIPDeveloper:
         
     def get_current_focus(self):
         return {
-            "🎓 Learning": ["Advanced AI Models", "Cloud Native Development", "DevOps"],
+            "🎓 Learning": [
+                "Advanced AI Models", 
+                "Cloud Native Development", 
+                "DevOps"
+            ],
             "💼 Working On": "Revolutionary Web & AI Products",
             "❤️ Passionate About": "Building scalable, secure, and innovative solutions",
             "🎯 Goal": "Empowering businesses with cutting-edge technology"
         }
-```
+
+# Khởi tạo profile
+me = VIPDeveloper()
 
 ---
 
