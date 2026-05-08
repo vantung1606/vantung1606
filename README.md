@@ -49,27 +49,62 @@ Here are some ideas to get you started:
 
 ---
 
-## 🚀 About Me
+````markdown id="w56j1j"
+## 🚀 About Me — The Premium Developer
 
-Hi, I'm **Van Tung** — a Full Stack Developer from Vietnam 🇻🇳
+<div align="center">
 
-I specialize in building scalable web applications, AI-powered products, and modern cloud-based systems. With 5+ years of development experience, I focus on creating clean, high-performance, and user-friendly solutions.
+### 👋 Hi There, I'm Van Tung 🇻🇳  
+### 🌟 Full Stack Developer • AI Enthusiast • Cloud Architect
 
-### 💡 Specialization
-- 🌐 Web Development
-- 🤖 AI & Machine Learning
-- 📱 Mobile Development
-- ☁️ Cloud Architecture
-- 🔐 Cybersecurity
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Experiences;Creating+AI-Powered+Applications;Designing+Scalable+Cloud+Systems;Always+Learning+New+Technologies" />
+
+</div>
+
+---
+
+### 💎 Who Am I?
+
+Passionate Full Stack Developer with **5+ years of experience** crafting modern, scalable, and high-performance digital products.  
+I love combining **clean architecture**, **beautiful UI/UX**, and **AI-powered solutions** to build impactful applications.
+
+---
+
+### ⚡ What I Do
+
+- 🌐 Develop modern full-stack web applications
+- 🤖 Integrate AI & Machine Learning solutions
+- ☁️ Design scalable cloud infrastructures
+- 📱 Build responsive and mobile-friendly systems
+- 🔐 Focus on security, performance, and clean architecture
+
+---
 
 ### 🎯 Current Focus
-- Advanced AI Models
-- Cloud-Native Development
-- DevOps & Automation
-- Scalable Web & AI Products
 
-### ❤️ Passion
-Building secure, scalable, and innovative digital solutions that create real impact.
+```diff
++ Advanced AI Applications
++ Cloud-Native Development
++ Scalable SaaS Platforms
++ DevOps & Infrastructure Automation
++ High Performance UI/UX
+```
+
+---
+
+### 🧠 Developer Philosophy
+
+> "Code should not only work — it should be scalable, maintainable, and meaningful."
+
+---
+
+<div align="center">
+
+### 🚀 Building the future with code & creativity
+
+</div>
+````
+
 
 ## 🏆 Premium Tech Stack - VIP Edition
 
